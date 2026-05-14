@@ -1,1 +1,2 @@
-[[maths]](Maths.pdf)
+[[maths]](maths.pdf)
+[[physique]](phys.pdf)
