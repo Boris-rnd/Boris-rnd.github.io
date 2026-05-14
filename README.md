@@ -1,1 +1,1 @@
-[[Maths.pdf]](maths)
+[[maths]](Maths.pdf)
